@@ -14,6 +14,7 @@
 
 * [Aula virtual](https://famaf.aulavirtual.unc.edu.ar/login/index.php)
 * [Página oficial de la materia](TODO)
+* [Profe Pagina: jipphysics](https://github.com/jipphysics/metodos-numericos-2024)
 
 ## Tutoriales
 
